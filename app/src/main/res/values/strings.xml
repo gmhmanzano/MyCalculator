@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="operador1">Operador 1</string>
+    <string name="intoduce1">Introduzca el primer valor numérico</string>
+    <string name="operador2">Operador 2</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+</resources>
